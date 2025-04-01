@@ -1,1 +1,3 @@
 Initial development notes
+Updates from main branch.
+More detailed development notes.
